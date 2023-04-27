@@ -1,0 +1,2 @@
+# FetchSpreadSheetDemo
+SpreadSheetから値を取得するデモリポジトリ
